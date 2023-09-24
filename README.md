@@ -14,7 +14,7 @@ Parola Sil: Belirli bir web sitesinin parolasını silin.
 Katkıda Bulunma
 Herhangi bir katkıda bulunmak veya sorun bildirmek isterseniz, lütfen bir GitHub Issue oluşturun veya bir Pull Request gönderin.
 
-İngilizce
+Eng
 
 Simple Password Management Application README
 This simple Python application allows users to manage their web sites, usernames, and passwords. This application allows you to add new passwords, view existing passwords, and delete them. Please note that this application is not suitable for real-world applications. A more secure password management solution may be required.
